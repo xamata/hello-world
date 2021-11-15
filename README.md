@@ -1,2 +1,4 @@
 # hello-world
 This is my very first repository in GitHub. First of many, many projects.
+
+My name is Maximillian. I'm an Electrical Engineering graduate from Cal Poly Pomona who has recently discovered that I desire a path in Software Engineering. I have past experience in C/C++, Java, HTML, and css from school projects and classes, but I am striving to become an Python expert. I have finished the Udemy 2020 Bootcamp From Zero to Hero in Python by Jose Portilla. I am nowhere near where I want to be, but it is a great milestone for me. My next project is going to be a website and then possibly a pathfinding program. I believe programming is going to change my life and I'm excited my growth. Thank you for taking the time to read my read-me, hopefully it's because I have impressed you with some code. If not, I got to work harder! 
